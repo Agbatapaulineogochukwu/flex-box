@@ -1,0 +1,29 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    color: aliceblue;
+    margin: auto;
+}
+
+.SEDANS{
+    background-color: rgb(215, 120, 11);
+    padding: 17px;
+}
+
+.SUVS{
+    background-color: rgb(5, 108, 20);
+    padding: 17px;
+}
+
+.LUXURY{
+    background-color: rgb(1, 32, 10);
+    padding: 17px;
+}
+
+button{
+    padding: 15px;
+    border-radius: 30px;
+}
